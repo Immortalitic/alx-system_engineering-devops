@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $(pwd)
+=======
+/home/thedanielwilliams/root/alx-system_engineering-devops/0x00-shell_basics
+>>>>>>> 4ce611f74fdb93a5f55bc733c26878db52eb7cd6
